@@ -2,7 +2,7 @@
   "name": "laravel-component-switcher",
   "displayName": "Laravel Component Switcher",
   "description": "Easy switch between component blade and php file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "DatzITeu",
   "repository": {
     "type": "git",
