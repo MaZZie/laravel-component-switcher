@@ -3,6 +3,11 @@
   "displayName": "Laravel Component Switcher",
   "description": "Easy switch between component blade and php file",
   "version": "0.0.1",
+  "publisher": "DatzITeu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaZZie/laravel-component-switcher.git"
+},
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -22,8 +27,8 @@
   "keybindings": [
       {
           "command": "laravel-component-switcher.switch",
-          "key": "alt+ctrl+l",
-          "mac": "cmd+alt+l"
+          "key": "alt+ctrl+c",
+          "mac": "cmd+alt+c"
       }
   ]
   },

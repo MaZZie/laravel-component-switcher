@@ -6,7 +6,7 @@ A simple package to switch between the Laravel components class and view files.
 
 Once a Laravel component class or view file is open and active, just run the command `laravel-component-switcher` to switch between the two files.
 
-Keyboard shortcut: `Ctrl + Alt + L`
+Keyboard shortcut: `Ctrl + Alt + C`
 
 ## Release Notes
 
